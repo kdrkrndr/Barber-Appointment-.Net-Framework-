@@ -1,0 +1,1 @@
+<%@ WebService Language="C#" CodeBehind="BerberService.asmx.cs" Class="helpDeskApp.service.BerberService" %> 
